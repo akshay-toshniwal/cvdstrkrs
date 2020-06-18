@@ -1,0 +1,24 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+click==7.1.2
+comtypes==1.1.7
+Flask==1.1.2
+googletrans==3.0.0
+h11==0.9.0
+h2==3.2.0
+hpack==3.0.0
+hstspreload==2020.6.16
+httpcore==0.9.1
+httpx==0.13.3
+hyperframe==5.2.0
+idna==2.9
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+playsound==1.2.2
+PyAudio @ file:///C:/Users/Lenovo/PycharmProjects/mg/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+pyttsx3==2.88
+rfc3986==1.4.0
+sniffio==1.1.0
+SpeechRecognition==3.8.1
+Werkzeug==1.0.1
