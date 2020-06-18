@@ -21,4 +21,4 @@ rfc3986==1.4.0
 sniffio==1.1.0
 SpeechRecognition==3.8.1
 Werkzeug==1.0.1
-PyAudio @ file:///PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
+PyAudio @ file:///C:/Users/Lenovo/PycharmProjects/mg/PyAudio-0.2.11-cp36-cp36m-win_amd64.whl
