@@ -16,7 +16,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 playsound==1.2.2
-PyAudio @ file:///C:/Users/Lenovo/PycharmProjects/mg/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pyttsx3==2.88
 rfc3986==1.4.0
 sniffio==1.1.0
