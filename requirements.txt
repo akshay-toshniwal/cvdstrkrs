@@ -20,5 +20,5 @@ pyttsx3==2.88
 rfc3986==1.4.0
 sniffio==1.1.0
 SpeechRecognition==3.8.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 PyAudio==0.2.8
